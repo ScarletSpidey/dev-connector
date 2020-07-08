@@ -1,0 +1,19 @@
+{
+  "name": "dev-connector",
+  "version": "1.0.0",
+  "description": "mern practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScarletSpidey/dev-connector.git"
+  },
+  "author": "Shobit Puri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScarletSpidey/dev-connector/issues"
+  },
+  "homepage": "https://github.com/ScarletSpidey/dev-connector#readme"
+}
